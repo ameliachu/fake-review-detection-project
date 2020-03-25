@@ -1,11 +1,17 @@
-#
+# Fake Review Detection (NYC Yelp Reviews)
 #### Authors:
-Amelia Chu (email [at] nyu.edu)
+Amelia Chu
+
 Evaristus Ezekwem
+
 Dee Hahm
+
 Gabrielle Hurtado
 
-This is a final project for New York University's Machine Learning class (DS-GA 1003).
+(Team: Foodies Gang)
+
+This is a final project for New York University's Machine Learning class (DS-GA 1003). Criteria [here] (https://worksheets.codalab.org/worksheets/0x33171fbfe67049fd9b0d61962c1d05ff). We will be looking at NYC Yelp reviews and classifying them as fake or real.
+
 Due: May 19th, 2020
 
 ##### Repository Structure
