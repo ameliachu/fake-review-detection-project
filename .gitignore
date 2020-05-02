@@ -1,1 +1,4 @@
 data/raw/train.csv
+notebooks/drh382/*.csv
+data/processed/dev/ac4119_*.csv
+data/processed/dev/ac4119_*.pkl
